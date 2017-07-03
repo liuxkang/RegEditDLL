@@ -1,0 +1,5 @@
+F:\VSTO\RegEditDLL\RegEditDLL\bin\Debug\RegEditDLL.dll
+F:\VSTO\RegEditDLL\RegEditDLL\bin\Debug\RegEditDLL.pdb
+F:\VSTO\RegEditDLL\RegEditDLL\obj\Debug\RegToolDLL.csprojResolveAssemblyReference.cache
+F:\VSTO\RegEditDLL\RegEditDLL\obj\Debug\RegEditDLL.dll
+F:\VSTO\RegEditDLL\RegEditDLL\obj\Debug\RegEditDLL.pdb

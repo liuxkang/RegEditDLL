@@ -1,0 +1,5 @@
+F:\VSTO\RegEditDLL\RegEditDLL\bin\Release\RegEditDLL.dll
+F:\VSTO\RegEditDLL\RegEditDLL\bin\Release\RegEditDLL.pdb
+F:\VSTO\RegEditDLL\RegEditDLL\obj\Release\RegEditDLL.dll
+F:\VSTO\RegEditDLL\RegEditDLL\obj\Release\RegEditDLL.pdb
+F:\VSTO\RegEditDLL\RegEditDLL\obj\Release\RegToolDLL.csprojResolveAssemblyReference.cache
