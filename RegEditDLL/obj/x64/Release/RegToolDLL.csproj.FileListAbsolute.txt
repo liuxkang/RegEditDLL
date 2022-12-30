@@ -1,0 +1,6 @@
+E:\VS2022\liuxkang\RegEditDLL\RegEditDLL\bin\x64\Release\RegEditDLL.dll
+E:\VS2022\liuxkang\RegEditDLL\RegEditDLL\bin\x64\Release\RegEditDLL.pdb
+E:\VS2022\liuxkang\RegEditDLL\RegEditDLL\obj\x64\Release\RegToolDLL.csproj.AssemblyReference.cache
+E:\VS2022\liuxkang\RegEditDLL\RegEditDLL\obj\x64\Release\RegToolDLL.csproj.CoreCompileInputs.cache
+E:\VS2022\liuxkang\RegEditDLL\RegEditDLL\obj\x64\Release\RegEditDLL.dll
+E:\VS2022\liuxkang\RegEditDLL\RegEditDLL\obj\x64\Release\RegEditDLL.pdb
